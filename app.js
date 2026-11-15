@@ -65,7 +65,7 @@ const I18N = {
     dl_title: "Prêt à commencer ?",
     dl_desc: "Téléchargez StreamZ maintenant et profitez de milliers de contenus.",
     dl_btn: "Télécharger l'APK",
-    dl_note: "Version 2.9.3 · Android 7.0+ · ~24 MB",
+    dl_note: "Version 2.10.0 · Android 7.0+ · ~24 MB",
     footer_copy: "© 2026 StreamZ. Tous droits réservés."
   },
   en: {
@@ -133,7 +133,7 @@ const I18N = {
     dl_title: "Ready to start?",
     dl_desc: "Download StreamZ now and enjoy thousands of titles.",
     dl_btn: "Download APK",
-    dl_note: "Version 2.9.3 · Android 7.0+ · ~24 MB",
+    dl_note: "Version 2.10.0 · Android 7.0+ · ~24 MB",
     footer_copy: "© 2026 StreamZ. All rights reserved."
   }
 };
