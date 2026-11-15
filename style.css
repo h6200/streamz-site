@@ -42,13 +42,12 @@ body{
   display:flex;align-items:center;justify-content:space-between;gap:24px;
 }
 .brand{
-  font-family:'Sora',sans-serif;font-weight:800;font-size:26px;letter-spacing:.5px;
+  display:flex;align-items:center;gap:10px;font-family:'Sora',sans-serif;font-weight:800;font-size:26px;letter-spacing:.5px;
   color:var(--text);text-decoration:none;cursor:pointer;
-  display:flex;align-items:center;gap:2px;
 }
 .brand-z{color:var(--red)}
-.brand-logo{height:34px;width:34px;object-fit:contain;filter:drop-shadow(0 0 8px rgba(229,9,20,.6))}
-.footer-brand .brand-logo{height:30px;width:30px}
+.brand-logo{height:36px;width:36px;display:block;flex-shrink:0;filter:drop-shadow(0 2px 8px rgba(229,9,20,.5))}
+.footer-brand .brand-logo{height:32px;width:32px}
 .nav-links{display:flex;gap:32px;align-items:center}
 .nav-links a{
   color:var(--muted);text-decoration:none;font-size:15px;font-weight:500;
