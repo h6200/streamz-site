@@ -6,8 +6,8 @@ const APK_DOWNLOAD_URL = "https://github.com/h6200/streamz-site/releases/downloa
 const I18N = {
   fr: {
     nav_home: "Accueil",
+    nav_content: "Contenu",
     nav_features: "Fonctionnalités",
-    nav_shots: "Aperçu",
     nav_faq: "FAQ",
     nav_download: "Télécharger",
     hero_badge: "Streaming HD",
@@ -19,6 +19,7 @@ const I18N = {
     stat_cat: "Catégories",
     stat_live: "Matchs en direct",
     title_content: "Tout votre contenu préféré",
+    content_sub: "Quatre univers, une seule application.",
     card_movies_t: "Films",
     card_movies_d: "Un large catalogue de films, du classique aux dernières sorties.",
     card_series_t: "Séries",
@@ -69,8 +70,8 @@ const I18N = {
   },
   en: {
     nav_home: "Home",
+    nav_content: "Content",
     nav_features: "Features",
-    nav_shots: "Preview",
     nav_faq: "FAQ",
     nav_download: "Download",
     hero_badge: "HD Streaming",
@@ -82,6 +83,7 @@ const I18N = {
     stat_cat: "Categories",
     stat_live: "Live matches",
     title_content: "All your favorite content",
+    content_sub: "Four worlds, one single app.",
     card_movies_t: "Movies",
     card_movies_d: "A wide catalog of films, from classics to the latest releases.",
     card_series_t: "Series",
