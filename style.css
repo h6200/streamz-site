@@ -47,6 +47,8 @@ body{
   display:flex;align-items:center;gap:2px;
 }
 .brand-z{color:var(--red)}
+.brand-logo{height:34px;width:34px;object-fit:contain;filter:drop-shadow(0 0 8px rgba(229,9,20,.6))}
+.footer-brand .brand-logo{height:30px;width:30px}
 .nav-links{display:flex;gap:32px;align-items:center}
 .nav-links a{
   color:var(--muted);text-decoration:none;font-size:15px;font-weight:500;
