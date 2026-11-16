@@ -4,6 +4,3 @@ compatibility_date = "2026-11-15"
 # Cloudflare Pages — static site StreamZ
 # Pa gen build command (fichye statik deja nan rasin repo a).
 pages_build_output_dir = "."
-
-[build]
-command = ""
