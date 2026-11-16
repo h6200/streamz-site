@@ -58,15 +58,10 @@ const I18N = {
     dl_sub: "Disponible pour Android. Installation rapide et simple.",
     dl_cta: "Télécharger maintenant",
     dl_note: "L'installation depuis des sources inconnues doit être activée sur votre appareil.",
-    title_legal: "Infos légales",
-    legal_1: "StreamZ diffuse uniquement du contenu du domaine public et des sources publiques légales (films classiques d'Internet Archive, métadonnées TMDB, playlists IPTV publiques).",
-    legal_2: "L'application n'héberge aucun contenu protégé et n'est affiliée à aucune plateforme de streaming tierce.",
-    legal_3: "Toutes les marques, logos et noms cités appartiennent à leurs propriétaires respectifs.",
     footer_note: "© 2026 StreamZ. Tous droits réservés.",
     footer_nav: "Navigation",
     footer_contact: "Contact",
-    footer_dl: "Télécharger",
-    footer_legal: "Infos légales"
+    footer_dl: "Télécharger"
   },
   en: {
     nav_home: "Home",
@@ -122,15 +117,10 @@ const I18N = {
     dl_sub: "Available for Android. Quick and easy installation.",
     dl_cta: "Download now",
     dl_note: "Installing from unknown sources must be enabled on your device.",
-    title_legal: "Legal info",
-    legal_1: "StreamZ streams only public domain content and legal public sources (classic films from Internet Archive, TMDB metadata, public IPTV playlists).",
-    legal_2: "The app does not host any protected content and is not affiliated with any third-party streaming platform.",
-    legal_3: "All trademarks, logos and names mentioned belong to their respective owners.",
     footer_note: "© 2026 StreamZ. All rights reserved.",
     footer_nav: "Navigation",
     footer_contact: "Contact",
-    footer_dl: "Download",
-    footer_legal: "Legal info"
+    footer_dl: "Download"
   }
 };
 
