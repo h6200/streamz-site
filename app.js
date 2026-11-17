@@ -1,7 +1,7 @@
 // ===== StreamZ site — language toggle + download link =====
 
 // DOWNLOAD LINK de l'APK StreamZ (mete a jou a chak nouvo vèsyon)
-const APK_DOWNLOAD_URL = "https://github.com/h6200/streamz-site/releases/download/v2.11.0/streamz-v2.11.0+24.apk";
+const APK_DOWNLOAD_URL = "https://github.com/h6200/streamz-site/releases/download/v2.11.0/streamz-v2.11.0+25.apk";
 
 const I18N = {
   fr: {
